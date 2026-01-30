@@ -1,0 +1,19 @@
+1.Nombre de la clase:
+
+Qué se cambió y por qué:
+Se cambió de p a AnalisisNumeros para que el nombre refleje claramente la función del programa.
+
+2.Array y variables principales:
+
+Qué se cambió y por qué:
+Se reemplazaron letras (n, c, a, s, r) por numerosArray, numeroMaximo, cantidadMaximo y promedio. Esto hace que las variables sean descriptivas, indicando claramente su propósito y facilitando la comprensión del programa.
+
+3.Métodos separados:
+
+Qué se cambió y por qué:
+Se separó la lógica en tres métodos: encontrarNumeroMaximo, contarRepeticiones y calcularPromedio. Esto mejora la legibilidad y la reutilización y evita tener lógica compleja dentro del main. Las variables internas también son descriptivas (maximoActual, contador, sumaTotal).
+
+4.Salida de datos:
+
+Qué se cambió y por qué:
+Se reemplazaron salidas simples (“SI”, “NO”) por frases completas que explican qué representa cada resultado, haciendo la información más clara y comprensible para el usuario.
